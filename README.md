@@ -1,4 +1,4 @@
-![5m5h](https://github.com/Dario-Fajardo/Dario-Fajardo/assets/114748553/974bd72f-1cfc-4401-835b-08e8a6c65358)
+# ![5m5h](https://github.com/Dario-Fajardo/Dario-Fajardo/assets/114748553/974bd72f-1cfc-4401-835b-08e8a6c65358)
 
 <h1 align="center">Hola 👋, soy Tomás de Armas Déniz</h1>
 <h3 align="center">Soy estudiante 📚 de Ingeniería Informática 💻 en la ESIT de la Universidad de La Laguna 🟪</h3>
