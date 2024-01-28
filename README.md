@@ -11,12 +11,3 @@
 [![C++](https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
 
 <br>
-
-<h3 align="left">✒ Estadísticas:</h3>
-
-<p align="center">
-<a href="https://github.com/Dario-Fajardo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dario-Fajardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dario-Fajardo&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
