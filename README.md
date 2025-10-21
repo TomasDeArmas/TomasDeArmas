@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hola 👋, soy Tomás de Armas Déniz</h1>
-<h3 align="center">Soy estudiante 📚 de Ingeniería Informática 💻 en la ESIT de la Universidad de La Laguna </h3>
+<h3 align="center">Gradudado en 📚 de Ingeniería Informática 💻 por la Universidad de La Laguna </h3>
 
 <br>
 
