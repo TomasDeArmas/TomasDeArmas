@@ -104,12 +104,12 @@ class Tomás:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tomasdearmas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasdearmas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TomasDeArmas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasDeArmas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tomasdearmas&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=TomasDeArmas&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -125,6 +125,6 @@ class Tomás:
 
 *"Complex problems deserve elegant solutions."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=tomasdearmas&color=00D9FF&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=TomasDeArmas&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
