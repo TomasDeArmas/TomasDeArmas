@@ -80,7 +80,7 @@ class Tomás:
 ## 💼 Experience
 
 **🚀 Co-founder & CTO — Visual Novel Universe** *(2025–Present)*
-> Building a platform for the visual novel community from the ground up. Tech stack: React, React Native, Node.js, Unity, MongoDB, Firebase.
+> Building a platform for the visual novel community from the ground up. Tech stack: React, React Native, Node.js, Express, Docker, Redis, Unity, Godot, Cloudflare, MongoDB, Firebase.
 
 **🏢 Back-end Developer (Internship) — HolaSoft** *(2025)*
 > Microservices & infrastructure. Node.js (Express + NestJS), TypeScript, Docker, MongoDB. 5 months.
@@ -94,8 +94,8 @@ class Tomás:
 
 | Degree | Institution | Status |
 |--------|------------|--------|
-| 🎓 MSc in Artificial Intelligence Research | UIMP | 🟢 In progress |
 | ➕ BSc in Mathematics | UNED | 🟢 In progress |
+| 🎓 MSc in Artificial Intelligence Research | UIMP | ✔️ Completed |
 | ✅ BSc in Computer Engineering | University of La Laguna | ✔️ Completed |
 
 ---
